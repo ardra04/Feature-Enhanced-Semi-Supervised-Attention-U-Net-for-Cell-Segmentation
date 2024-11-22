@@ -4,8 +4,7 @@ Blood test is one of the primary measures utilized for detecting and monitoring 
 To get the correct proportion of each cells, they need to be properly segment out from the background. The process of segmenting cells from the background is cell segmentation.
 
 Cell segmentation aids in :
-Proper Identification of diseases
-Measuring disease severity
+Proper Identification of diseases and Measuring disease severity
 
 Cell Segmentation Appraoches : 
 Manual counting of cells are Time Consuming and prone to human errors
