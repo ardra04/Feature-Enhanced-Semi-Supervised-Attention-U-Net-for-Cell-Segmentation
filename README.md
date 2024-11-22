@@ -1,5 +1,8 @@
 # Feature-Enhanced-Semi-Supervised-Attention-U-Net-for-Cell-Segmentation
 
+You can find the paper here : https://ieeexplore.ieee.org/document/10726083
+
+
 Blood test is one of the primary measures utilized for detecting and monitoring of various health conditions. It has the range of each cells needed for a healthy person to the actual percentage of cells in the body.
 To get the correct proportion of each cells, they need to be properly segment out from the background. The process of segmenting cells from the background is cell segmentation.
 
